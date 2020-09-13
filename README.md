@@ -1,4 +1,4 @@
-# WooCommerce Exchange Rate Manager  
+# WooCommerce Dropship Currency Converter
 
 This is a simple plugin that converts product prices from one currency to another, using an exchange rate from a user specified API, fetched once a day. Allows you to set your retail prices in your vendor's currency and then display another currency to your clients.  
 This was made in a hurry for a friend that does business in US dollars and dropships from a vendor that does business in euros. It's not meant for public use, but it works so feel free to use it on your website.
